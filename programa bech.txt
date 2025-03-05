@@ -1,0 +1,4 @@
+@echo off
+:aa
+MSG * programa Executado
+exit
